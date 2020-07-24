@@ -11,6 +11,7 @@
 # Freight Trust Releases
 
 ## GPG Key 
+[Root GPG Key, Find Details in the freight-trust/pki releases](https://github.com/freight-trust/pki/releases/tag/2020_07)
 
 ### Offical
 sam bacha <sam@freighttrust.com> (361D5A506F6EB43E)
