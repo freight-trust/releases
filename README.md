@@ -10,6 +10,13 @@
 
 # Freight Trust Releases
 
+## Docker Containers
+
+**REPOSITORY**           **TAG**         **IMAGE ID**          **CREATED**       **SIZE** <br />
+freight-trust/java        latest         8006561e6d58          8 minutes ago       547MB <br />
+freight-trust/base        latest         18134896b856         12 minutes ago       126MB <br />
+
+
 ## GPG Key 
 
 ### Offical
