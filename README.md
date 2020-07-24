@@ -10,6 +10,9 @@
 
 # Freight Trust Releases
 
+[rss/atom feed](http://github.com/freight-trust/releases/commits/docker.atom)
+<br />
+
 ## Docker Containers
 
 **REPOSITORY**           **TAG**         **IMAGE ID**          **CREATED**       **SIZE** <br />
