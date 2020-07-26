@@ -1,5 +1,5 @@
 {
-  "name": "conventional-changelog-ember",
+  "name": "@freight-trust/devmrc-changelog-ember",
   "version": "1.0.0",
   "description": "conventional-changelog ember preset",
   "main": "index.js",

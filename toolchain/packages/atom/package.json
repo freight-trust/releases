@@ -1,5 +1,5 @@
 {
-  "name": "conventional-changelog-atom",
+  "name": "@freight-trust/devmrc-changelog-atom",
   "version": "1.0.0",
   "description": "conventional-changelog atom preset",
   "main": "index.js",

@@ -1,5 +1,5 @@
 {
-  "name": "conventional-changelog-angular",
+  "name": "@freight-trust/devmrc-changelog-angular",
   "version": "1.0.0",
   "description": "conventional-changelog angular preset",
   "main": "index.js",
