@@ -35,15 +35,15 @@ sam bacha <sam@freighttrust.com> (361D5A506F6EB43E)
 
 #### Regular
 
-^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(-(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-za-z-]*)(\.(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-za-z-]_))_)?(\+[0-9a-zA-Z-]+(\.[0-9a-zA-Z-]+)\*)?\$
+^(0|[1-9]\d\*)\.(0|[1-9]\d\*)\.(0|[1-9]\d\*)(-(0|[1-9]\d\*|\d\*[a-zA-Z-][0-9a-za-z-]\*)(\.(0|[1-9]\d\*|\d\*[a-zA-Z-][0-9a-za-z-]\_))\_)?(\+[0-9a-zA-Z-]+(\.[0-9a-zA-Z-]+)\\*)?\$
 
 #### LTS
 
-(?nx)^ (?<Major>0|[1-9]\d*)\. (?<Minor>0|[1-9]\d*)\. (?<Patch>0|[1-9]\d*)
+(?nx)^ (?<Major>0|[1-9]\d\*)\. (?<Minor>0|[1-9]\d\*)\. (?<Patch>0|[1-9]\d\*)
 (?<PreReleaseTagWithSeparator> -(?<PreReleaseTag>
-((0|[1-9]\d*|\d*[A-Z-a-z-][\da-za-z-]*))(\.(0|[1-9]\d*|\d*[A-Za-z-][\da-za-z-]_))_
+((0|[1-9]\d\*|\d\*[A-Z-a-z-][\da-za-z-]\*))(\.(0|[1-9]\d\*|\d\*[A-Za-z-][\da-za-z-]\_))\_
 ) )? (?<BuildMetadataTagWithSeparator>
-\+(?<BuildMetadataTag>[\dA-Za-z-]+(\.[\dA-Za-z-]_)_) )?\$
+\+(?<BuildMetadataTag>[\dA-Za-z-]+(\.[\dA-Za-z-]\_)\_) )?\$
 
 ### Licenses
 
