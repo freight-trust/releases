@@ -36,5 +36,6 @@
   "dependencies": {
     "compare-func": "^2.0.0",
     "q": "^1.5.1"
-  }
+  },
+  "gitHead": "f0411b9fe482aa05d19bfdf7e43787b86a092691"
 }

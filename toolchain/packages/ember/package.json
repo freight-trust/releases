@@ -35,5 +35,6 @@
   "homepage": "https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-ember#readme",
   "dependencies": {
     "q": "^1.5.1"
-  }
+  },
+  "gitHead": "f0411b9fe482aa05d19bfdf7e43787b86a092691"
 }
