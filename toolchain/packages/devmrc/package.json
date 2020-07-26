@@ -1,6 +1,6 @@
 {
   "name": "@freight-trust/devmrc",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "devmrc tool",
   "main": "index.js",
   "repository": "https://github.com/freight-trust/devmrc",

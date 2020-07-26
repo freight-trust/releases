@@ -1,6 +1,6 @@
 {
   "name": "@freight-trust/devmrc-changelog-angular",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "private": false,
   "description": "conventional-changelog angular preset",
   "main": "index.js",
