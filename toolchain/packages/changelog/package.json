@@ -1,5 +1,6 @@
 {
   "name": "@freight-trust/devmrc-changelog",
+  "private": false,
   "version": "2.1.0",
   "description": "Conventional changelog plugin for release-it",
   "main": "index.js",

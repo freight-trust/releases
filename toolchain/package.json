@@ -1,5 +1,6 @@
 {
   "name": "@freight-trust/devmrc-release",
+  "private": false,
   "version": "0.1.0",
   "description": "devmrc release tooling",
   "main": "index.js",

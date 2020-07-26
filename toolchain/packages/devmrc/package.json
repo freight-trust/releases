@@ -6,5 +6,6 @@
   "repository": "https://github.com/freight-trust/devmrc",
   "author": "SEE LICENSE",
   "license": "MPL-2.0",
-  "private": false
+  "private": false,
+  "gitHead": "744310a45c9107df2a4001323c929114ababfd70"
 }
