@@ -1,0 +1,10 @@
+{
+  "name": "@freight-trust/devmrc",
+  "version": "2.1.1",
+  "description": "devmrc tool",
+  "main": "index.js",
+  "repository": "https://github.com/freight-trust/devmrc",
+  "author": "SEE LICENSE",
+  "license": "MPL-2.0",
+  "private": false
+}
