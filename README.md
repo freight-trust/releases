@@ -17,6 +17,12 @@
 sam bacha <sam@freighttrust.com> (361D5A506F6EB43E)
 
 
+## Tooling
+
+### Autolog
+
+`npx auto-changelog --stdout --commit-limit false -u --template https://raw.githubusercontent.com/freight-trust/releases/master/changelog.hbs | tee -a autolog`
+
 ### Versioning 
 
 
