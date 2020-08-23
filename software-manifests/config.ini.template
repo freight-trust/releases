@@ -1,3 +1,0 @@
-[DEFAULT]
-GraphQLEndpoint = https://api.github.com/graphql
-BearerToken = PUT_TOKEN_HERE
